@@ -1,0 +1,4 @@
+- [ ] Save passwords to file
+- [ ] Load passwords on startup
+- [ ] Delete password
+- [ ] Add encryption
